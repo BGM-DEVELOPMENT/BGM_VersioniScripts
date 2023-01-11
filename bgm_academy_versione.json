@@ -1,0 +1,4 @@
+{
+    "version":"1.0",
+    "changelog":"Aggiunto il Supporto al FrameWork ESX mediante il Config.FrameWork, Aggiunte le SafeZone, Aggiunta la Possibilità di Rimuovere gli NPC dal Config, Implementata la Versione nello Script, Aggiunto il Comando per Ricaricare le Munzioni Modificabile dal Config, Rimosso il messaggio/titoli/tipo di scomparsa, Aggiunta la scelta per cambiare il veicolo con l'hash del modello, Aggiunta in tutte le funzioni dello script un aiuto, Altri Fix & Cambiamenti"
+}
