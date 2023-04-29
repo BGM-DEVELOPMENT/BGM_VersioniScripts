@@ -1,4 +1,4 @@
 {
-    "version":"1.0",
-    "changelog":"Caricato su Keymaster"
+    "version":"1.1",
+    "changelog":"Aggiunta la possibilità di far attaccare un giocatore se si trova nel range di un suono attivato da interact-sounds, fixata animazione & distanza spawn"
 }
