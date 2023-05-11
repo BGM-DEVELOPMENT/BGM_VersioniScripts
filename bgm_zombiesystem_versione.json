@@ -1,4 +1,4 @@
 {
-    "version":"1.1",
-    "changelog":"Aggiunta la possibilità di far attaccare un giocatore se si trova nel range di un suono attivato da interact-sounds, fixata animazione & distanza spawn"
+    "version":"1.2",
+    "changelog":"Fix despawn zombie, aggiunto ItemBox all'aggiunta di un item (loot), aggiunto in client/editabile/editabile.lua la possibilità di modificare la funziona del blocco dei comandi, aggiunte nuove traduzioni, ottimizzazione generale"
 }
