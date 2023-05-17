@@ -1,4 +1,4 @@
 {
-    "version":"1.2",
-    "changelog":"Aggiunto il conteggio dei Soldi Sporchi, Aggiunto Export nel qb-core/server/players.lua (automatizzato nel config)"
+    "version":"1.3",
+    "changelog":"Aggiunti i Debug, aggiunti i vari export per semplificare l'installazione, fix valore 'nil' se non si hanno soldi puliti / soldi sporchi. Reinstalla lo Script guardando la Docs https://bgm-development.gitbook.io/bgm-shop/bgm_cashitems/come-installarlo"
 }
