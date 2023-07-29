@@ -1,4 +1,4 @@
 {
-    "version":"1.2",
-    "changelog":"Fix despawn zombie, aggiunto ItemBox all'aggiunta di un item (loot), aggiunto in client/editabile/editabile.lua la possibilità di modificare la funziona del blocco dei comandi, aggiunte nuove traduzioni, ottimizzazione generale"
+    "version":"1.3",
+    "changelog":"Risolto il problema di Sincronizzazione tra i Giocatori, Risolto che dava un errore in Console (server) che non trovata il file client/editabile/editabile.lua, Cambiato l'Export per il Framework ESX"
 }
