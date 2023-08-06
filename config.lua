@@ -1,1 +1,7 @@
-print("ciao")
+BGM = {}
+
+BGM.TestLicenze = {
+  Liste = {
+    "Ciao",
+  },
+}
