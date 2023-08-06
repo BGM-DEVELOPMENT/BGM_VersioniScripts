@@ -1,7 +1,16 @@
-BGM = {}
-
-BGM.Lista = {
-    "LITTLE-29472942342492424284",
-    "LITTLE-29472942342492424282",
-    "LITTLE-29472942342492424281",
+{
+  "players": [
+    {
+      "name": "Giocatore1",
+      "score": 100
+    },
+    {
+      "name": "Giocatore2",
+      "score": 75
+    },
+    {
+      "name": "Giocatore3",
+      "score": 120
+    }
+  ]
 }
