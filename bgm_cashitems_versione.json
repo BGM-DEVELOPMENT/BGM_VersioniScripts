@@ -1,4 +1,4 @@
 {
-    "version":"1.5",
-    "changelog":"Aggiornato il Config con nuove Funzioni (Aggiunta la possibilità di disattivare le opzioni di soldi / soldisporchi), Aggiunto Sistema di Decimali, Aggiornato Sistema ClientServerSided"
+    "version":"1.6",
+    "changelog":"Ottimizzato Lato Client & Server (testato con 70on con 0.0 max 0.02 resmon lato server mentre lato client 0.0), Aggiornato lo Script Utilizzando il Sistema BGM Security License (v1.0) (RICHIEDI LA TUA LICENZA E RUOLO APRENDO UN TICKET!), Risolto che se nel Config Impostavi su BGM.CashItems.Soldi.Utilizza su 'false' te li Utilizzava Comunque."
 }
