@@ -1,4 +1,4 @@
 {
-    "version":"1.3",
-    "changelog":"Risolto il problema di Sincronizzazione tra i Giocatori, Risolto che dava un errore in Console (server) che non trovata il file client/editabile/editabile.lua, Cambiato l'Export per il Framework ESX"
+    "version":"1.4",
+    "changelog":"Aggiornato lo Script Utilizzando il Sistema BGM Security License (v1.0) (RICHIEDI LA TUA LICENZA E RUOLO APRENDO UN TICKET!), Aggiunto che gli Zombie ti possono Cacciare da un Veicolo (attivabile dal Config BGM.ZombieSystem.Zombies.CacciareGiocatoreDalVeicolo), Risolto che nell'F8 spammava ogni secondo 'Warning: [entity] NETWORK_GET_NETWORK_ID_FROM_ENTITY: no such entity (script ID 0)', Aggiunto Sistema di Infezione"
 }
