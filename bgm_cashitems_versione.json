@@ -1,4 +1,4 @@
 {
-    "version":"1.6",
-    "changelog":"Ottimizzato Lato Client & Server (testato con 70on con 0.0 minimo con un massimo di 0.02 di resmon lato server mentre lato client 0.0), Aggiornato lo Script Utilizzando il Sistema BGM Security License (v1.0) (RICHIEDI LA TUA LICENZA E RUOLO APRENDO UN TICKET!), Risolto che se nel Config Impostavi su BGM.CashItems.Soldi.Utilizza su 'false' te li Utilizzava Comunque."
+    "version":"1.7",
+    "changelog":"Risolto errore di quando si Entrava per il PlayerData nullo, Rimosso un Return che Andava a far Fermare il Ciclo dello Script, Risolto Bug di Duplicazione, Risolto che a volte se Aggiungevi / Rimuovevi soldi non si Aggiornava Correttamente"
 }
