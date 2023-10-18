@@ -1,4 +1,4 @@
 {
-    "version":"1.5",
-    "changelog":"Risolto che se sei a Terra gli Zombie non ti Attaccheranno / Aggiungeranno l'Infezione, Risolto lo Spawn con Orario, Aggiunto Spawn Massimi degli Zombie"
+    "version":"1.6",
+    "changelog":"Risolto che quando venivi Colpito da più Zombie l'Infezione si Resettava"
 }
