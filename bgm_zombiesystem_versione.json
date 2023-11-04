@@ -1,4 +1,4 @@
 {
-    "version":"1.6",
-    "changelog":"Risolto che quando venivi Colpito da più Zombie l'Infezione si Resettava"
+    "version":"1.7",
+    "changelog":"Risolto che quando Sparavi / Moriva lo Zombie l'Infezione si Resettava, Risolto errore Player == nil, Migliorato il sistema per il controllo stato (morte)"
 }
