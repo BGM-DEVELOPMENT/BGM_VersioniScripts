@@ -1,4 +1,4 @@
 {
-    "version":"1.1",
-    "changelog":"Migliorato il Sistema Anti GodMode, Migliorato il Sistema Anti NoClip (ora supporta anche il NoClip con i Veicoli), Migliorato il Sistema Anti Freecam, Rimosso Temporalmente il Sistema Cheat-Overlay, Risolto Problema nella Lista dei Giocatori Online nell'UI, ▪️ Aggiunte nuove Funzioni (AntiTriggerExecute, AntiNoRecoil, AntiHitbox, AntiNoRagdoll, AntiSpawnVeicoliOCS (On Client Side), AntiExplosion)"
+    "version":"1.2",
+    "changelog":"Aggiunta la possibilità di scegliere il tipo di AntiExplosion, Aggiunta la possibilità di aggiungere le coordinate permesse (Esempio: quando una persona va al concessionario per scegliere un veicolo) al AntiSpawnVeicoliOCS per far spawnare un veicolo visibile solo client side (al singolo giocatore), Aggiunte varie tipologie di AntiGodMode (si possono selezionare anche tutte e tre), Aggiunta la possibilità di aggiungere le coordinate permesse all'AntiParticelle (Esempio: quando una persona fa il lavoro del minatore)"
 }
