@@ -1,4 +1,4 @@
 {
-    "version":"1.0",
-    "changelog":"v1.0 Beta published"
+    "version":"1.1",
+    "changelog":"Removed unnecessary prints, Solved problem not banning, Add client-side export to Ban and Kicckare"
 }
