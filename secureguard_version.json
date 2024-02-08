@@ -1,4 +1,4 @@
 {
-    "version":"1.1",
-    "changelog":"Removed unnecessary prints, Solved problem not banning, Add client-side export to Ban and Kicckare"
+    "version":"1.2",
+    "changelog":"Resolved and Improved the MagicBullet System, Added IP Lock (To Set/Change IP you have to go to the Channel on Discord Change-IP), Added the Debug, Changed the appearance of LOGs, Improved the screenshot system, Created a file in (configs/licence.lua) where you should enter your license, Added a system that rechecks permissions every minute (Anti Bypass), Added AntiVehicleModifier (EasyHandling, Torque, Engine Boost and more), Added AntiResourceStop, Fixed AntiNoRagdoll, Changed command from /sgcmd to /secureguard, Added Command /secureguard unban all, Added safe coordinates to GodMode config (Which also applies to SemiGodMode) and AntiSpawnVehicles, Added more blacklisted menus to the AntiLuaMenu config, Added AntiTaze"
 }
